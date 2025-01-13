@@ -8,6 +8,10 @@ Programa com a finalidade de fornecer uma landing page ao utilizador<br/>
   <img alt="projeto landingpage" src=".github/Layout.png" width="100%">
 </p>
 
+<p align="center">
+  <video alt="Video landingpage" src=".github/Vídeo sem título - Feito com Clipchamp (7).mp4" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
