@@ -9,7 +9,7 @@ Programa com a finalidade de fornecer uma landing page ao utilizador<br/>
 </p>
 
 <p align="center">
-  <video alt="Video landingpage" src=".github/Vídeo sem título - Feito com Clipchamp (7).mp4" width="100%">
+  <video alt="Video landingpage" src=".github/Vídeo sem título - Feito com Clipchamp (7).mp4" controls width="100%"></video>
 </p>
 
 ## 🚀 Tecnologias
