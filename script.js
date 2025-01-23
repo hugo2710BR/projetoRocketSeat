@@ -6,10 +6,10 @@ function toggleMode() {
   const imagem = document.querySelector("#profile img")
 
   if (html.classList.contains("light")) {
-    imagem.setAttribute("src", "assets/avatar_dark.png")
+    imagem.setAttribute("src", "assets/Avatar_dark.png")
     imagem.setAttribute("alt", "logo_light")
   } else {
-    imagem.setAttribute("src", "assets/avatar.png")
+    imagem.setAttribute("src", "assets/Avatar.png")
     imagem.setAttribute("alt", "logo_dark")
   }
 }
