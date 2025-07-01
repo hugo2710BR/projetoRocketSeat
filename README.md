@@ -14,7 +14,7 @@ Programa com a finalidade de fornecer uma landing page ao utilizador<br/>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
